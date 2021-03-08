@@ -15,7 +15,7 @@ from windnd import windnd
 }'''
 
 root_frame = Tk()
-root_frame.iconbitmap('ji.ico')
+# root_frame.iconbitmap('.\\ji.ico')
 
 # DPI适配
 # 告诉操作系统使用程序自身的dpi适配
